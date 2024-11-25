@@ -1,2 +1,2 @@
-# DS-programs
-Basic programs for data structures and algorithms
+# Data Structures and Algorithms
+These are the codes for different data structures and alogrithms.
