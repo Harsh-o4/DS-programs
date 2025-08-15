@@ -1,2 +1,3 @@
-# Data Structures and Algorithms
-These are the codes for different data structures and alogrithms.
+# Miscellaneous Programs
+This repo is just a backup for the random programs that I write.
+
